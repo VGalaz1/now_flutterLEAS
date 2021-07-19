@@ -1,7 +1,7 @@
 # now_flutterLEAS
  Segundo prototipo de aplicación LEAS
 
- Funciones habilidatas actualmente:
+ Pantallas habilidatas actualmente:
 
  - Login (user: test@gmail.com, password: contraseña)
  - Encuesta (conectada a la base de datos: no)
